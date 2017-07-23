@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+}
+.box{
+	padding: 3% 0 0 3%;
+}
+.grid{
+	width: 30%;
+	padding: 30% 0 0 0;
+	float: left;
+	border-radius: 10px;
+	background-color: orange;
+    margin: 0 3% 3% 0;
